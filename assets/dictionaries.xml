@@ -36,22 +36,6 @@
 		list="always"
 	/>
 	<dictionary
-		id="SlovoEd Deluxe German-&gt;English"
-		package="com.slovoed.noreg.english_german.deluxe"
-		class=".Start"
-		action="android.intent.action.VIEW"
-		pattern="%s/808464950"
-		list="installed"
-	/>
-	<dictionary
-		id="SlovoEd Deluxe English-&gt;German"
-		package="com.slovoed.noreg.english_german.deluxe"
-		class=".Start"
-		action="android.intent.action.VIEW"
-		pattern="%s/808464949"
-		list="installed"
-	/>
-	<dictionary
 		id="Langenscheidt Professional German-&gt;English"
 		package="com.slovoed.noreg.langenscheidt.professional.german_english"
 		class=".Start"
@@ -81,22 +65,6 @@
 		class=".Start"
 		action="android.intent.action.VIEW"
 		pattern="%s/808595524"
-		list="installed"
-	/>
-	<dictionary
-		id="SlovoEd Deluxe French-&gt;Russian"
-		package="com.slovoed.french_russian.deluxe"
-		class=".Start"
-		action="android.intent.action.VIEW"
-		pattern="%s/808532019"
-		list="installed"
-	/>
-	<dictionary
-		id="SlovoEd Deluxe Russian-&gt;French"
-		package="com.slovoed.french_russian.deluxe"
-		class=".Start"
-		action="android.intent.action.VIEW"
-		pattern="%s/808532018"
 		list="installed"
 	/>
 	<dictionary
@@ -133,6 +101,3094 @@
 		action="android.intent.action.SEARCH"
 		dataKey="query"
 		pattern="%s"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Russian"
+		package="com.slovoed.noreg.russian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465729"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Swedish"
+		package="com.slovoed.noreg.russian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465730"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-French"
+		package="com.slovoed.noreg.greek_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469808"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Greek"
+		package="com.slovoed.noreg.greek_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469809"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-German"
+		package="com.slovoed.noreg.german_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469810"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-Greek"
+		package="com.slovoed.noreg.german_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469811"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Italian"
+		package="com.slovoed.noreg.greek_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469812"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Dutch"
+		package="com.slovoed.noreg.greek_dutch.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469572"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-English"
+		package="com.slovoed.noreg.english_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469573"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Greek"
+		package="com.slovoed.noreg.english_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469574"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-English"
+		package="com.slovoed.noreg.english_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465721"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Swedish"
+		package="com.slovoed.noreg.english_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465720"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-French"
+		package="com.slovoed.noreg.french_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465973"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-German"
+		package="com.slovoed.noreg.french_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465972"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Portuguese-English"
+		package="com.slovoed.noreg.english_portuguese.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465971"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Portuguese"
+		package="com.slovoed.noreg.english_portuguese.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465970"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Greek"
+		package="com.slovoed.noreg.greek_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469826"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Russian"
+		package="com.slovoed.noreg.greek_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469825"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-Greek"
+		package="com.slovoed.noreg.greek_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469828"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Spanish"
+		package="com.slovoed.noreg.greek_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469827"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Polish"
+		package="com.slovoed.noreg.greek_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469814"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Greek"
+		package="com.slovoed.noreg.greek_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469813"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Portuguese"
+		package="com.slovoed.noreg.greek_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469816"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Greek"
+		package="com.slovoed.noreg.greek_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469815"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Portuguese-Greek"
+		package="com.slovoed.noreg.greek_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469817"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-English"
+		package="com.slovoed.noreg.english_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465473"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Russian"
+		package="com.slovoed.noreg.english_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465474"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.noreg.german_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Polish-Portuguese"
+		package="com.slovoed.noreg.polish_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470068"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Portuguese-Polish"
+		package="com.slovoed.noreg.polish_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470069"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Italian"
+		package="com.slovoed.noreg.italian_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470066"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Polish"
+		package="com.slovoed.noreg.italian_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470067"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-French"
+		package="com.slovoed.noreg.french_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469829"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Polish"
+		package="com.slovoed.noreg.french_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469830"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Italian-Russian"
+		package="com.slovoed.noreg.italian_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465714"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Spanish-Russian"
+		package="com.slovoed.noreg.spanish_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465715"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English explanatory"
+		package="com.slovoed.noreg.english_english.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470082"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-Polish"
+		package="com.slovoed.noreg.polish_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470073"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Spanish"
+		package="com.slovoed.noreg.polish_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470072"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Polish"
+		package="com.slovoed.noreg.polish_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470071"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Russian"
+		package="com.slovoed.noreg.polish_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470070"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-German"
+		package="com.slovoed.noreg.german_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465477"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.noreg.german_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe German-Russian"
+		package="com.slovoed.noreg.german_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465478"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Ukrainian-Russian"
+		package="com.slovoed.noreg.russian_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466245"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Serbian-English"
+		package="com.slovoed.noreg.english_serbian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466246"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Ukrainian"
+		package="com.slovoed.noreg.russian_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466244"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Serbian"
+		package="com.slovoed.noreg.english_serbian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466480"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Italian"
+		package="com.slovoed.noreg.german_italian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465985"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Italian-German"
+		package="com.slovoed.noreg.german_italian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465986"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Spanish"
+		package="com.slovoed.noreg.german_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465987"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-German"
+		package="com.slovoed.noreg.german_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465988"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-Italian"
+		package="com.slovoed.noreg.italian_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465989"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-Italian"
+		package="com.slovoed.noreg.french_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465974"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-French"
+		package="com.slovoed.noreg.french_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465975"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Spanish"
+		package="com.slovoed.noreg.french_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465976"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-French"
+		package="com.slovoed.noreg.french_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465977"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe English-Russian"
+		package="com.slovoed.noreg.english_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466224"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-English"
+		package="com.slovoed.noreg.english_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466225"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-Spanish"
+		package="com.slovoed.noreg.italian_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465990"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-Spanish"
+		package="com.slovoed.noreg.spanish_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596274"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Classic Russian-Italian"
+		package="com.slovoed.noreg.italian_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596273"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Turkish-English"
+		package="com.slovoed.noreg.english_turkish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596293"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Czech"
+		package="com.slovoed.noreg.czech_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468786"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Czech-English"
+		package="com.slovoed.noreg.czech_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468787"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Czech"
+		package="com.slovoed.noreg.czech_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468788"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-Czech"
+		package="com.slovoed.noreg.czech_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534326"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Czech-German"
+		package="com.slovoed.noreg.czech_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468789"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Czech-Italian"
+		package="com.slovoed.noreg.czech_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534327"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe French-Czech"
+		package="com.slovoed.noreg.czech_french.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468790"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd DeLuxe Czech-French"
+		package="com.slovoed.noreg.czech_french.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468791"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Croatian"
+		package="com.slovoed.noreg.croatian_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534324"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Croatian-English"
+		package="com.slovoed.noreg.croatian_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534325"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Turkish"
+		package="com.slovoed.noreg.english_turkish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596292"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Hebrew-Russian"
+		package="com.slovoed.noreg.slovoed.base_00b1.hebrew_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469041"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-English"
+		package="com.slovoed.noreg.english_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469044"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact English-French"
+		package="com.slovoed.noreg.english_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469045"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English explanatory"
+		package="com.slovoed.noreg.english_english.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534578"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Hebrew"
+		package="com.slovoed.noreg.slovoed.base_00b1.hebrew_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469042"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-German"
+		package="com.slovoed.noreg.english_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469043"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-English"
+		package="com.slovoed.noreg.english_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469048"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-German"
+		package="com.slovoed.noreg.german_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469049"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact French-English"
+		package="com.slovoed.noreg.english_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469046"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Italian-German"
+		package="com.slovoed.noreg.german_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534583"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Spanish"
+		package="com.slovoed.noreg.english_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469047"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact German-Italian"
+		package="com.slovoed.noreg.german_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534584"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Classic Italian-Russian"
+		package="com.slovoed.noreg.italian_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596272"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact German-Swedish"
+		package="com.slovoed.noreg.german_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469057"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.noreg.french_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Danish"
+		package="com.slovoed.noreg.danish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469062"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Czech-Swedish"
+		package="com.slovoed.noreg.czech_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469059"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Czech"
+		package="com.slovoed.noreg.czech_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469058"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Romanian-Swedish"
+		package="com.slovoed.noreg.romanian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469061"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.noreg.french_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Romanian"
+		package="com.slovoed.noreg.romanian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469060"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Danish-Swedish"
+		package="com.slovoed.noreg.danish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469296"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-Bulgarian"
+		package="com.slovoed.noreg.bulgarian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469303"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Bulgarian-Swedish"
+		package="com.slovoed.noreg.bulgarian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469304"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-French"
+		package="com.slovoed.noreg.french_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469305"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-Norwegian"
+		package="com.slovoed.noreg.norwegian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469301"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Norwegian-Swedish"
+		package="com.slovoed.noreg.norwegian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469302"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Swedish"
+		package="com.slovoed.noreg.french_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469313"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Hungarian"
+		package="com.slovoed.noreg.english_hungarian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595505"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-German"
+		package="com.slovoed.noreg.english_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464949"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Spanish"
+		package="com.slovoed.noreg.spanish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469318"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Portuguese-Swedish"
+		package="com.slovoed.noreg.portuguese_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469317"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-English"
+		package="com.slovoed.noreg.english_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464950"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-Portuguese"
+		package="com.slovoed.noreg.portuguese_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469316"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Italian"
+		package="com.slovoed.noreg.english_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464953"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Hungarian-English"
+		package="com.slovoed.noreg.english_hungarian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595506"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-German"
+		package="com.slovoed.noreg.french_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469555"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-English"
+		package="com.slovoed.noreg.english_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469554"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-English"
+		package="com.slovoed.noreg.english_french.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595512"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-German"
+		package="com.slovoed.noreg.english_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469553"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-French"
+		package="com.slovoed.noreg.english_french.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595511"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-Swedish"
+		package="com.slovoed.noreg.spanish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469552"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-English"
+		package="com.slovoed.noreg.english_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464961"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Spanish"
+		package="com.slovoed.noreg.english_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595521"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-Latin"
+		package="com.slovoed.noreg.german_latin.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469560"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Spanish-German"
+		package="com.slovoed.noreg.german_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469561"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English explanatory"
+		package="com.slovoed.noreg.english_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595524"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Italian"
+		package="com.slovoed.noreg.german_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469558"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Latin-German"
+		package="com.slovoed.noreg.german_latin.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469559"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-English"
+		package="com.slovoed.noreg.english_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595522"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-French"
+		package="com.slovoed.noreg.french_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469556"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-German"
+		package="com.slovoed.noreg.german_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469557"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Dutch"
+		package="com.slovoed.noreg.dutch_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469570"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Slovak"
+		package="com.slovoed.noreg.english_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600626"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Dutch-Swedish"
+		package="com.slovoed.noreg.dutch_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469571"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Slovak-English"
+		package="com.slovoed.noreg.english_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600627"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-Slovak"
+		package="com.slovoed.noreg.german_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600628"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Slovak-German"
+		package="com.slovoed.noreg.german_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600629"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact German-Spanish"
+		package="com.slovoed.noreg.german_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469569"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Polish"
+		package="com.slovoed.noreg.german_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596784"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Polish-German"
+		package="com.slovoed.noreg.german_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596785"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Greek"
+		package="com.slovoed.noreg.german_greek.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596534"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Greek-German"
+		package="com.slovoed.noreg.german_greek.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596535"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe French-German"
+		package="com.slovoed.noreg.french_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596536"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-French"
+		package="com.slovoed.noreg.french_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596537"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Spanish"
+		package="com.slovoed.noreg.german_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596530"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-German"
+		package="com.slovoed.noreg.german_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596531"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Uzbek"
+		package="com.slovoed.noreg.english_uzbek.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600889"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Uzbek-English"
+		package="com.slovoed.noreg.english_uzbek.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600897"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Turkish"
+		package="com.slovoed.noreg.german_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596787"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Turkish-German"
+		package="com.slovoed.noreg.german_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596788"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Catalan-Spanish"
+		package="com.slovoed.noreg.catalan_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535093"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.noreg.portuguese_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-Catalan"
+		package="com.slovoed.noreg.catalan_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535092"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Latvian"
+		package="com.slovoed.noreg.english_latvian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535096"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-Italian"
+		package="com.slovoed.noreg.italian_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535089"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Italian-Spanish"
+		package="com.slovoed.noreg.italian_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535088"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Swedish"
+		package="com.slovoed.noreg.italian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534850"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Italian"
+		package="com.slovoed.noreg.italian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534851"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Turkish-Italian"
+		package="com.slovoed.noreg.italian_turkish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534849"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Dutch"
+		package="com.slovoed.noreg.dutch_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534835"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-French"
+		package="com.slovoed.noreg.french_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534837"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Dutch-Italian"
+		package="com.slovoed.noreg.dutch_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534836"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Russian"
+		package="com.slovoed.noreg.italian_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534839"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Turkish"
+		package="com.slovoed.noreg.english_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530756"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Italian"
+		package="com.slovoed.noreg.french_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534838"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.noreg.portuguese_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Turkish"
+		package="com.slovoed.noreg.italian_turkish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534841"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Turkish-English"
+		package="com.slovoed.noreg.english_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530755"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-Italian"
+		package="com.slovoed.noreg.italian_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808597554"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Italian"
+		package="com.slovoed.noreg.italian_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534840"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Hebrew"
+		package="com.slovoed.noreg.slovoed.base_013a.hebrew_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530754"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Hebrew-English"
+		package="com.slovoed.noreg.slovoed.base_013a.hebrew_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530753"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish Italian"
+		package="com.slovoed.noreg.italian_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534832"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Lithuanian"
+		package="com.slovoed.noreg.italian_lithuanian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534594"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Lithuanian-Italian"
+		package="com.slovoed.noreg.italian_lithuanian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534595"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Spanish"
+		package="com.slovoed.noreg.italian_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534598"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Italian"
+		package="com.slovoed.noreg.english_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532272"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-English"
+		package="com.slovoed.noreg.english_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532273"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Latin"
+		package="com.slovoed.noreg.english_latin.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532274"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Latin-English"
+		package="com.slovoed.noreg.english_latin.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532275"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Portuguese-Spanish"
+		package="com.slovoed.noreg.portuguese_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532278"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Spanish-Portuguese"
+		package="com.slovoed.noreg.portuguese_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532279"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-French"
+		package="com.slovoed.noreg.french_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532281"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-Spanish"
+		package="com.slovoed.noreg.french_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532280"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Arabic-English"
+		package="com.slovoed.noreg.slovoed.base_019c.arabic_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532291"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Polish-English"
+		package="com.slovoed.noreg.english_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466502"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe French explanatory"
+		package="com.slovoed.noreg.french_french.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532290"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Polish"
+		package="com.slovoed.noreg.english_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466501"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Ukrainian-English"
+		package="com.slovoed.noreg.english_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466500"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Ukrainian"
+		package="com.slovoed.noreg.english_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466499"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Arabic"
+		package="com.slovoed.noreg.slovoed.base_019c.arabic_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532292"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Arabic"
+		package="com.slovoed.noreg.slovoed.base_0169.arabic_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531760"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Arabic-Russian"
+		package="com.slovoed.noreg.slovoed.base_0169.arabic_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531513"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish explanatory"
+		package="com.slovoed.noreg.spanish_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531782"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe French-Russian"
+		package="com.slovoed.noreg.french_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532019"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-French"
+		package="com.slovoed.noreg.french_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532018"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-English"
+		package="com.slovoed.noreg.english_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531781"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Spanish"
+		package="com.slovoed.noreg.english_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531780"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Russian"
+		package="com.slovoed.russian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465729"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Swedish"
+		package="com.slovoed.russian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465730"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-French"
+		package="com.slovoed.greek_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469808"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Greek"
+		package="com.slovoed.greek_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469809"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-German"
+		package="com.slovoed.german_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469810"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-Greek"
+		package="com.slovoed.german_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469811"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Italian"
+		package="com.slovoed.greek_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469812"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Dutch"
+		package="com.slovoed.greek_dutch.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469572"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-English"
+		package="com.slovoed.english_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469573"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Greek"
+		package="com.slovoed.english_greek.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469574"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-English"
+		package="com.slovoed.english_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465721"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Swedish"
+		package="com.slovoed.english_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465720"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-French"
+		package="com.slovoed.french_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465973"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-German"
+		package="com.slovoed.french_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465972"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Portuguese-English"
+		package="com.slovoed.english_portuguese.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465971"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Portuguese"
+		package="com.slovoed.english_portuguese.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465970"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Greek"
+		package="com.slovoed.greek_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469826"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Russian"
+		package="com.slovoed.greek_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469825"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-Greek"
+		package="com.slovoed.greek_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469828"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Spanish"
+		package="com.slovoed.greek_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469827"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Polish"
+		package="com.slovoed.greek_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469814"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Greek"
+		package="com.slovoed.greek_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469813"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Greek-Portuguese"
+		package="com.slovoed.greek_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469816"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Greek"
+		package="com.slovoed.greek_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469815"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Portuguese-Greek"
+		package="com.slovoed.greek_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469817"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-English"
+		package="com.slovoed.english_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465473"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Russian"
+		package="com.slovoed.english_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465474"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.german_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Polish-Portuguese"
+		package="com.slovoed.polish_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470068"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Portuguese-Polish"
+		package="com.slovoed.polish_portuguese.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470069"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Italian"
+		package="com.slovoed.italian_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470066"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Polish"
+		package="com.slovoed.italian_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470067"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-French"
+		package="com.slovoed.french_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469829"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Polish"
+		package="com.slovoed.french_polish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469830"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Italian-Russian"
+		package="com.slovoed.italian_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465714"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Spanish-Russian"
+		package="com.slovoed.spanish_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465715"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English explanatory"
+		package="com.slovoed.english_english.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470082"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-Polish"
+		package="com.slovoed.polish_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470073"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Spanish"
+		package="com.slovoed.polish_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470072"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Polish"
+		package="com.slovoed.polish_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470071"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Polish-Russian"
+		package="com.slovoed.polish_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808470070"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-German"
+		package="com.slovoed.german_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465477"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.german_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe German-Russian"
+		package="com.slovoed.german_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465478"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Ukrainian-Russian"
+		package="com.slovoed.russian_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466245"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Serbian-English"
+		package="com.slovoed.english_serbian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466246"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Ukrainian"
+		package="com.slovoed.russian_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466244"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Serbian"
+		package="com.slovoed.english_serbian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466480"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Italian"
+		package="com.slovoed.german_italian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465985"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Italian-German"
+		package="com.slovoed.german_italian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465986"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Spanish"
+		package="com.slovoed.german_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465987"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-German"
+		package="com.slovoed.german_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465988"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-Italian"
+		package="com.slovoed.italian_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465989"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-Italian"
+		package="com.slovoed.french_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465974"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-French"
+		package="com.slovoed.french_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465975"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Spanish"
+		package="com.slovoed.french_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465976"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-French"
+		package="com.slovoed.french_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465977"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe English-Russian"
+		package="com.slovoed.english_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466224"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-English"
+		package="com.slovoed.english_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466225"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-Spanish"
+		package="com.slovoed.italian_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808465990"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-Spanish"
+		package="com.slovoed.spanish_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596274"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Classic Russian-Italian"
+		package="com.slovoed.italian_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596273"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Turkish-English"
+		package="com.slovoed.english_turkish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596293"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Czech"
+		package="com.slovoed.czech_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468786"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Czech-English"
+		package="com.slovoed.czech_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468787"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Czech"
+		package="com.slovoed.czech_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468788"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-Czech"
+		package="com.slovoed.czech_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534326"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Czech-German"
+		package="com.slovoed.czech_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468789"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Czech-Italian"
+		package="com.slovoed.czech_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534327"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe French-Czech"
+		package="com.slovoed.czech_french.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468790"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd DeLuxe Czech-French"
+		package="com.slovoed.czech_french.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808468791"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Croatian"
+		package="com.slovoed.croatian_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534324"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Croatian-English"
+		package="com.slovoed.croatian_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534325"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Turkish"
+		package="com.slovoed.english_turkish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596292"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Hebrew-Russian"
+		package="com.slovoed.slovoed.base_00b1.hebrew_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469041"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-English"
+		package="com.slovoed.english_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469044"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact English-French"
+		package="com.slovoed.english_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469045"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English explanatory"
+		package="com.slovoed.english_english.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534578"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Hebrew"
+		package="com.slovoed.slovoed.base_00b1.hebrew_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469042"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-German"
+		package="com.slovoed.english_german.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469043"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-English"
+		package="com.slovoed.english_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469048"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-German"
+		package="com.slovoed.german_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469049"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact French-English"
+		package="com.slovoed.english_french.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469046"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Italian-German"
+		package="com.slovoed.german_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534583"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Spanish"
+		package="com.slovoed.english_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469047"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact German-Italian"
+		package="com.slovoed.german_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534584"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Classic Italian-Russian"
+		package="com.slovoed.italian_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596272"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact German-Swedish"
+		package="com.slovoed.german_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469057"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.french_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Danish"
+		package="com.slovoed.danish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469062"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Czech-Swedish"
+		package="com.slovoed.czech_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469059"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Czech"
+		package="com.slovoed.czech_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469058"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Romanian-Swedish"
+		package="com.slovoed.romanian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469061"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.french_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Romanian"
+		package="com.slovoed.romanian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469060"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Danish-Swedish"
+		package="com.slovoed.danish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469296"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-Bulgarian"
+		package="com.slovoed.bulgarian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469303"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Bulgarian-Swedish"
+		package="com.slovoed.bulgarian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469304"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-French"
+		package="com.slovoed.french_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469305"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-Norwegian"
+		package="com.slovoed.norwegian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469301"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Norwegian-Swedish"
+		package="com.slovoed.norwegian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469302"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Swedish"
+		package="com.slovoed.french_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469313"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Hungarian"
+		package="com.slovoed.english_hungarian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595505"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-German"
+		package="com.slovoed.english_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464949"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Spanish"
+		package="com.slovoed.spanish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469318"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Portuguese-Swedish"
+		package="com.slovoed.portuguese_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469317"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-English"
+		package="com.slovoed.english_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464950"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Swedish-Portuguese"
+		package="com.slovoed.portuguese_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469316"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Italian"
+		package="com.slovoed.english_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464953"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Hungarian-English"
+		package="com.slovoed.english_hungarian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595506"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-German"
+		package="com.slovoed.french_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469555"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-English"
+		package="com.slovoed.english_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469554"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-English"
+		package="com.slovoed.english_french.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595512"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-German"
+		package="com.slovoed.english_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469553"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-French"
+		package="com.slovoed.english_french.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595511"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish-Swedish"
+		package="com.slovoed.spanish_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469552"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-English"
+		package="com.slovoed.english_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808464961"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Spanish"
+		package="com.slovoed.english_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595521"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-Latin"
+		package="com.slovoed.german_latin.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469560"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Spanish-German"
+		package="com.slovoed.german_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469561"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English explanatory"
+		package="com.slovoed.english_english.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595524"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Italian"
+		package="com.slovoed.german_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469558"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Latin-German"
+		package="com.slovoed.german_latin.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469559"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-English"
+		package="com.slovoed.english_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808595522"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-French"
+		package="com.slovoed.french_german.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469556"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Italian-German"
+		package="com.slovoed.german_italian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469557"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Dutch"
+		package="com.slovoed.dutch_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469570"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Slovak"
+		package="com.slovoed.english_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600626"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Dutch-Swedish"
+		package="com.slovoed.dutch_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469571"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Slovak-English"
+		package="com.slovoed.english_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600627"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact German-Slovak"
+		package="com.slovoed.german_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600628"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Slovak-German"
+		package="com.slovoed.german_slovak.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600629"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact German-Spanish"
+		package="com.slovoed.german_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808469569"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Polish"
+		package="com.slovoed.german_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596784"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Polish-German"
+		package="com.slovoed.german_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596785"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Greek"
+		package="com.slovoed.german_greek.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596534"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Greek-German"
+		package="com.slovoed.german_greek.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596535"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe French-German"
+		package="com.slovoed.french_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596536"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-French"
+		package="com.slovoed.french_german.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596537"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe German-Spanish"
+		package="com.slovoed.german_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596530"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-German"
+		package="com.slovoed.german_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596531"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Uzbek"
+		package="com.slovoed.english_uzbek.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600889"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Uzbek-English"
+		package="com.slovoed.english_uzbek.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808600897"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic German-Turkish"
+		package="com.slovoed.german_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596787"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Turkish-German"
+		package="com.slovoed.german_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808596788"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Catalan-Spanish"
+		package="com.slovoed.catalan_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535093"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.portuguese_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-Catalan"
+		package="com.slovoed.catalan_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535092"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Latvian"
+		package="com.slovoed.english_latvian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535096"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-Italian"
+		package="com.slovoed.italian_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535089"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Italian-Spanish"
+		package="com.slovoed.italian_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808535088"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Swedish"
+		package="com.slovoed.italian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534850"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Swedish-Italian"
+		package="com.slovoed.italian_swedish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534851"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Turkish-Italian"
+		package="com.slovoed.italian_turkish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534849"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Dutch"
+		package="com.slovoed.dutch_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534835"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-French"
+		package="com.slovoed.french_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534837"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Dutch-Italian"
+		package="com.slovoed.dutch_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534836"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Russian"
+		package="com.slovoed.italian_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534839"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Turkish"
+		package="com.slovoed.english_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530756"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact French-Italian"
+		package="com.slovoed.french_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534838"
+		list="installed"
+	/>
+	<dictionary
+		id="null"
+		package="com.slovoed.portuguese_russian.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/null"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Turkish"
+		package="com.slovoed.italian_turkish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534841"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Turkish-English"
+		package="com.slovoed.english_turkish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530755"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-Italian"
+		package="com.slovoed.italian_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808597554"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Italian"
+		package="com.slovoed.italian_russian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534840"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Hebrew"
+		package="com.slovoed.slovoed.base_013a.hebrew_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530754"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Hebrew-English"
+		package="com.slovoed.slovoed.base_013a.hebrew_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808530753"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Spanish Italian"
+		package="com.slovoed.italian_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534832"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Lithuanian"
+		package="com.slovoed.italian_lithuanian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534594"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Lithuanian-Italian"
+		package="com.slovoed.italian_lithuanian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534595"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-Spanish"
+		package="com.slovoed.italian_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808534598"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Italian"
+		package="com.slovoed.english_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532272"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Italian-English"
+		package="com.slovoed.english_italian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532273"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Latin"
+		package="com.slovoed.english_latin.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532274"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Latin-English"
+		package="com.slovoed.english_latin.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532275"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Portuguese-Spanish"
+		package="com.slovoed.portuguese_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532278"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Compact Spanish-Portuguese"
+		package="com.slovoed.portuguese_spanish.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532279"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Spanish-French"
+		package="com.slovoed.french_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532281"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic French-Spanish"
+		package="com.slovoed.french_spanish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532280"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Arabic-English"
+		package="com.slovoed.slovoed.base_019c.arabic_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532291"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic Polish-English"
+		package="com.slovoed.english_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466502"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe French explanatory"
+		package="com.slovoed.french_french.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532290"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Polish"
+		package="com.slovoed.english_polish.classic"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466501"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Ukrainian-English"
+		package="com.slovoed.english_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466500"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact English-Ukrainian"
+		package="com.slovoed.english_ukrainian.compact"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808466499"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Classic English-Arabic"
+		package="com.slovoed.slovoed.base_019c.arabic_english"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532292"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Russian-Arabic"
+		package="com.slovoed.slovoed.base_0169.arabic_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531760"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Compact Arabic-Russian"
+		package="com.slovoed.slovoed.base_0169.arabic_russian"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531513"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish explanatory"
+		package="com.slovoed.spanish_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531782"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe French-Russian"
+		package="com.slovoed.french_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532019"
+		list="installed"
+	/>
+	<dictionary
+		id="Slovoed Deluxe Russian-French"
+		package="com.slovoed.french_russian.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808532018"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe Spanish-English"
+		package="com.slovoed.english_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531781"
+		list="installed"
+	/>
+	<dictionary
+		id="SlovoEd Deluxe English-Spanish"
+		package="com.slovoed.english_spanish.deluxe"
+		class=".Start"
+		action="android.intent.action.VIEW"
+		pattern="%s/808531780"
 		list="installed"
 	/>
 </dictionaries>
